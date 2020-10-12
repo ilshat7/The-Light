@@ -8,8 +8,10 @@
 import UIKit
 
 class ViewController: UIViewController {
-    var isLight = false
-
+    var isLight = true
+    override var prefersStatusBarHidden: Bool{
+        return true
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         changeLight()
