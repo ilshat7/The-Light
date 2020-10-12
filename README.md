@@ -1,5 +1,5 @@
 # The Light - The Rainbow
-##This app changes screen color on tap and turns on flash
+## This app changes screen color on tap and turns on flash
 
 ![Simulator Screen Shot - iPhone 11 Pro - 2020-10-12 at 11 57 51](https://user-images.githubusercontent.com/17231935/95715486-66cea580-0c83-11eb-8f41-241b21e9f4dd.png)
 ![Simulator Screen Shot - iPhone 11 Pro - 2020-10-12 at 11 57 42](https://user-images.githubusercontent.com/17231935/95715502-6c2bf000-0c83-11eb-99c6-d2b4c0980bce.png)
