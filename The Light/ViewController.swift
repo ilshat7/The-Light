@@ -6,10 +6,10 @@
 //
 
 import UIKit
+import AVFoundation
 
 class ViewController: UIViewController {
     var colorRainbow = 0
-    
     override var prefersStatusBarHidden: Bool{
         return true
     }
@@ -40,6 +40,16 @@ class ViewController: UIViewController {
             colorRainbow = 0
         }
         
+        let device = AVCaptureDevice.default(for: AVMediaType.video)
+
+              do {
+                try device?.lockForConfiguration()
+                device?.torchMode = .on
+                device?.unlockForConfiguration()
+
+              } catch {
+                print(error)
+              }
     }
     
     @IBAction func buttonPressed() {
