@@ -1,4 +1,4 @@
-# The Light
+# The Light - The Rainbow
 ![Simulator Screen Shot - iPhone 11 Pro - 2020-10-12 at 11 57 51](https://user-images.githubusercontent.com/17231935/95715486-66cea580-0c83-11eb-8f41-241b21e9f4dd.png)
 ![Simulator Screen Shot - iPhone 11 Pro - 2020-10-12 at 11 57 42](https://user-images.githubusercontent.com/17231935/95715502-6c2bf000-0c83-11eb-99c6-d2b4c0980bce.png)
 ![Simulator Screen Shot - iPhone 11 Pro - 2020-10-12 at 11 57 56](https://user-images.githubusercontent.com/17231935/95715510-6e8e4a00-0c83-11eb-8989-2d2b8ec708ad.png)
