@@ -10,6 +10,7 @@ import AVFoundation
 
 class ViewController: UIViewController {
     var colorRainbow = 0
+    let device = AVCaptureDevice.default(for: AVMediaType.video)
     override var prefersStatusBarHidden: Bool{
         return true
     }
@@ -39,8 +40,6 @@ class ViewController: UIViewController {
         if colorRainbow == 7 {
             colorRainbow = 0
         }
-        
-        let device = AVCaptureDevice.default(for: AVMediaType.video)
 
               do {
                 try device?.lockForConfiguration()
